@@ -12,7 +12,7 @@ This repository contains the deliverables for the **Understanding Public Safety 
 
 2. **Presentation Slides**  
    A concise slide deck summarizing the study for presentation. Includes visuals, key findings, and methodology.  
-   **[View the Slides on Slideshare](#)** (Add the actual link once uploaded).
+   **[View the Slides on Slideshare](https://www.slideshare.net/slideshow/understanding-public-safety-trends-in-calgary-a-data-mining-perspective/273824782)**.
 
 3. **Video Presentation**  
    A 10-minute video walkthrough of the project, covering key findings and methodologies.  
@@ -39,7 +39,7 @@ This repository contains the deliverables for the **Understanding Public Safety 
    Read the full article on Medium [here](https://medium.com/@manjunatha.inti/understanding-public-safety-trends-in-calgary-a-data-mining-perspective-6614aa470d17).
 
 2. **Slideshare Presentation:**  
-   View the presentation slides [here](#).
+   View the presentation slides [here](https://www.slideshare.net/slideshow/understanding-public-safety-trends-in-calgary-a-data-mining-perspective/273824782).
 
 3. **Video Walkthrough:**  
    Watch the video recording [here](https://www.youtube.com/watch?v=CHOY3MBlejA).
