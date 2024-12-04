@@ -16,7 +16,7 @@ This repository contains the deliverables for the **Understanding Public Safety 
 
 3. **Video Presentation**  
    A 10-minute video walkthrough of the project, covering key findings and methodologies.  
-   **[Watch the Video](#)** (Add the actual link once uploaded).
+   **[Watch the Video](https://www.youtube.com/watch?v=CHOY3MBlejA)** (Add the actual link once uploaded).
 
 
 ---
@@ -42,7 +42,7 @@ This repository contains the deliverables for the **Understanding Public Safety 
    View the presentation slides [here](#).
 
 3. **Video Walkthrough:**  
-   Watch the video recording [here](#).
+   Watch the video recording [https://www.youtube.com/watch?v=CHOY3MBlejA]().
 
 ---
 
