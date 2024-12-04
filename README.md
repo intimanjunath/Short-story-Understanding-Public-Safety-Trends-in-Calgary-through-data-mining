@@ -42,10 +42,7 @@ This repository contains the deliverables for the **Understanding Public Safety 
    View the presentation slides [here](#).
 
 3. **Video Walkthrough:**  
-   Watch the video recording [https://www.youtube.com/watch?v=CHOY3MBlejA]().
+   Watch the video recording [here](https://www.youtube.com/watch?v=CHOY3MBlejA).
 
----
-
-Feel free to explore the repository and reach out for any clarifications or collaboration opportunities!
 
 
